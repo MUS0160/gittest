@@ -1,5 +1,5 @@
 first line changed to something else
 first file - changed second line
 first file - added third line
-first file - added fourth line
-
+first file - changed fourth line
+first file - added fifth line
