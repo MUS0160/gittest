@@ -1,4 +1,4 @@
-first file - first line, added som shit
+changed first line
 first file - changed second line
 first file - added third line
 first file - added fourth line
