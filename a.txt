@@ -1,4 +1,4 @@
-first line changed to something else
+first line with another main conflict
 first file - changed second line
 first file - added third line
 first file - changed fourth line
